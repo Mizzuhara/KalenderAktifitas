@@ -1,4 +1,4 @@
 # KalenderAktifitas
 
-![Deskripsi Gambar](1.png)
+![Deskripsi Gambar](img/1.png)
 
